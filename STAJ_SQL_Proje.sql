@@ -1,5 +1,5 @@
 /*========================================================
-  AdSoyad_NovaStore_Proje.sql
+  HALİS_LUTFU_BAYCOL_NovaStore_Proje.sql
   NovaStore E-Ticaret Veri Yönetim Sistemi
 ========================================================*/
 
