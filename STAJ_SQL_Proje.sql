@@ -152,4 +152,4 @@ JOIN products p ON od.productid = p.productid;
 -- BÖLÜM 4: YEDEKLEME
 ----------------------------------------------------------
 
--- pg_dump -U postgres novastoredb > C:/Yedek/novastoredb.sql
+pg_dump -U postgres novastoredb > C:/Yedek/novastoredb.sql
